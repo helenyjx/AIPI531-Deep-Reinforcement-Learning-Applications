@@ -32,13 +32,6 @@ By the end of the course, students will be able to:
 * Address Issues: Describe the distribution shift issue and online-offline tradeoff and apply best practices in building effective deep reinforcement learning models.
 * Evaluate Performance: Evaluate and interpret deep reinforcement learning model performance.
 
-### 🛠️ Technologies Used
-PyTorch
-TensorFlow
-
-### 📂 Projects and Exercises
-Students will have the opportunity to work on hands-on exercises and projects, contributing to their GitHub profiles.
-
 ### 💻 Setup and Installation
 Instructions for setting up the development environment and installing the necessary libraries and frameworks will be provided.
 
